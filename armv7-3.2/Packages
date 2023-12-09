@@ -1,0 +1,76 @@
+Package: http-to-https-proxy
+Version: v0.3-1
+Depends: libc, libssp, librt, libpthread
+Section: net
+Architecture: armv7-3.2
+Installed-Size: 1835787
+Filename: http-to-https-proxy_v0.3-1_armv7-3.2.ipk
+Size: 1832007
+SHA256sum: 3597e482b43d85c84be94308c90d87267665f9436ce8b6fa1376f57b330fbcec
+Description:  A proxy that upgrades HTTP connections to HTTPS for systems which cannot make HTTPS requests.
+
+Package: http-to-https-proxy_nohf
+Version: v0.3-1
+Depends: libc, libssp, librt, libpthread
+Section: net
+Architecture: armv7-3.2
+Installed-Size: 1846048
+Filename: http-to-https-proxy_nohf_v0.3-1_armv7-3.2.ipk
+Size: 1842565
+SHA256sum: d76ad359837e63dd9824d00d3b2c7b695ab9828da1b756c0d6ed8ab13d7838ac
+Description:  A proxy that upgrades HTTP connections to HTTPS for systems which cannot make HTTPS requests.
+
+Package: watchyourlan
+Version: v1.0.4-1
+Depends: libc, libssp, librt, libpthread, arp-scan
+Section: net
+Architecture: armv7-3.2
+Installed-Size: 5228066
+Filename: watchyourlan_v1.0.4-1_armv7-3.2.ipk
+Size: 5220263
+SHA256sum: 62ee5cd845f0e7a7ecb26a6e8a06d06a337cab7871a4fc67a22b39bcd2d7cde7
+Description:  Lightweight network IP scanner with web GUI
+
+Package: watchyourlan_nohf
+Version: v1.0.4-1
+Depends: libc, libssp, librt, libpthread
+Section: net
+Architecture: armv7-3.2
+Installed-Size: 5260370
+Filename: watchyourlan_nohf_v1.0.4-1_armv7-3.2.ipk
+Size: 5251705
+SHA256sum: df8e06415a4cce8e78a7c4d89578f418f5c3b2db5877ef14f2cea9b3b03538ee
+Description:  Lightweight network IP scanner with web GUI
+
+Package: xupnpd2-fork
+Version: 2023-12-09-1
+Depends: libc, libssp, librt, libpthread, libsqlite3, liblua5.3, libuuid, libstdcpp, libopenssl
+Section: multimedia
+Architecture: armv7-3.2
+Installed-Size: 169262
+Filename: xupnpd2-fork_2023-12-09-1_armv7-3.2.ipk
+Size: 170099
+SHA256sum: aa22445d16b0f1dc0bbae89530da6d930b1cd7b48ed9938d5d6d62c2e9cc456d
+Description:  (github.com/jacklul/xupnpd2) This program is a light DLNA Media Server which provides ContentDirectory:1
+ service for sharing IPTV unicast streams over local area network (with udpxy
+ for multicast to HTTP unicast conversion). The program shares UTF8-encoded M3U
+ playlists with links over local area network as content of the directory.
+ You can watch HDTV broadcasts (multicast or unicast) and listen Internet
+ Radio in IP network without transcoding and PC.
+
+Package: xupnpd2-ssl
+Version: 2.0-20231209-1
+Depends: libc, libssp, librt, libpthread, libsqlite3, liblua5.3, libuuid, libstdcpp, libopenssl
+Section: multimedia
+Architecture: armv7-3.2
+Installed-Size: 152987
+Filename: xupnpd2-ssl_2.0-20231209-1_armv7-3.2.ipk
+Size: 153671
+SHA256sum: 894652f5fb4d97277c3298321a4ac4b1592577813901b7ab00d9acffbf7d9518
+Description:  (github.com/jacklul/xupnpd2) This program is a light DLNA Media Server which provides ContentDirectory:1
+ service for sharing IPTV unicast streams over local area network (with udpxy
+ for multicast to HTTP unicast conversion). The program shares UTF8-encoded M3U
+ playlists with links over local area network as content of the directory.
+ You can watch HDTV broadcasts (multicast or unicast) and listen Internet
+ Radio in IP network without transcoding and PC.
+
