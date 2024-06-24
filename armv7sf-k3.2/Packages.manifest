@@ -1,0 +1,85 @@
+Package: http-to-https-proxy_nohf
+Version: v0.3-1
+Depends: libc, libssp, librt, libpthread
+Source: feeds/jacklul/http-to-https-proxy
+SourceName: http-to-https-proxy
+Section: net
+SourceDateEpoch: 1719251381
+URL: https://github.com/yeokm1/http-to-https-proxy
+Maintainer: Jack'lul, https://jacklul.github.io
+Architecture: armv7-3.2
+Installed-Size: 4597760
+Filename: http-to-https-proxy_nohf_v0.3-1_armv7-3.2.ipk
+Size: 1879043
+SHA256sum: 8c6aa7396b7e66b2d44d08d3f83a69c05c4718f364d9924f6374dbb830594a15
+Description:  A proxy that upgrades HTTP connections to HTTPS for systems which cannot make HTTPS requests.
+
+Package: http-to-https-proxy
+Version: v0.3-1
+Depends: libc, libssp, librt, libpthread
+Source: feeds/jacklul/http-to-https-proxy
+SourceName: http-to-https-proxy
+Section: net
+SourceDateEpoch: 1719251381
+URL: https://github.com/yeokm1/http-to-https-proxy
+Maintainer: Jack'lul, https://jacklul.github.io
+Architecture: armv7-3.2
+Installed-Size: 4597760
+Filename: http-to-https-proxy_v0.3-1_armv7-3.2.ipk
+Size: 1869305
+SHA256sum: f3dac664800a471879e7196e83c2ba1401b1a3636ab8068479a3ea3b6e78d814
+Description:  A proxy that upgrades HTTP connections to HTTPS for systems which cannot make HTTPS requests.
+
+Package: watchyourlan_nohf
+Version: v1.0.6-1
+Depends: libc, libssp, librt, libpthread
+Source: feeds/jacklul/watchyourlan
+SourceName: watchyourlan
+Section: net
+SourceDateEpoch: 1719251381
+URL: https://github.com/aceberg/WatchYourLAN
+Maintainer: Jack'lul, https://jacklul.github.io
+Architecture: armv7-3.2
+Installed-Size: 12656640
+Filename: watchyourlan_nohf_v1.0.6-1_armv7-3.2.ipk
+Size: 5161200
+SHA256sum: 2d80036edf5b90116021ecea3bb8532227a5eee41cce0038f978de94cf0ac996
+Description:  Lightweight network IP scanner with web GUI
+
+Package: watchyourlan
+Version: v1.0.6-1
+Depends: libc, libssp, librt, libpthread, arp-scan
+Source: feeds/jacklul/watchyourlan
+SourceName: watchyourlan
+Section: net
+SourceDateEpoch: 1719251381
+URL: https://github.com/aceberg/WatchYourLAN
+Maintainer: Jack'lul, https://jacklul.github.io
+Architecture: armv7-3.2
+Installed-Size: 12595200
+Filename: watchyourlan_v1.0.6-1_armv7-3.2.ipk
+Size: 5133194
+SHA256sum: 20d063385d46042034914212bb774170f23d8726bae8d9413c275ea15fd6286b
+Description:  Lightweight network IP scanner with web GUI
+
+Package: xupnpd2-fork
+Version: 2023-12-09-1
+Depends: libc, libssp, librt, libpthread, libsqlite3, liblua5.3, libuuid, libstdcpp, libopenssl
+Source: feeds/jacklul/xupnpd2-fork
+SourceName: xupnpd2-fork
+Section: multimedia
+SourceDateEpoch: 1719251381
+URL: https://github.com/jacklul/xupnpd2
+Maintainer: Jack'lul, https://jacklul.github.io
+Architecture: armv7-3.2
+Installed-Size: 399360
+Filename: xupnpd2-fork_2023-12-09-1_armv7-3.2.ipk
+Size: 170098
+SHA256sum: e380c404272b9ab635fbaaa9dfefe0e684cf604dc170bff3da4ee1be33b40c03
+Description:  (github.com/jacklul/xupnpd2) This program is a light DLNA Media Server which provides ContentDirectory:1
+ service for sharing IPTV unicast streams over local area network (with udpxy
+ for multicast to HTTP unicast conversion). The program shares UTF8-encoded M3U
+ playlists with links over local area network as content of the directory.
+ You can watch HDTV broadcasts (multicast or unicast) and listen Internet
+ Radio in IP network without transcoding and PC.
+

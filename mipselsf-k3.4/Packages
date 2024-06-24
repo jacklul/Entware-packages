@@ -1,0 +1,29 @@
+Package: http-to-https-proxy
+Version: v0.3-1
+Depends: libc, libssp, librt, libpthread
+Section: net
+URL: https://github.com/yeokm1/http-to-https-proxy
+Architecture: mipsel-3.4
+Installed-Size: 5120000
+Filename: http-to-https-proxy_v0.3-1_mipsel-3.4.ipk
+Size: 1787311
+SHA256sum: cee0e4352a249192997c814d475ea1cdcd70274c5e1f5309363d0453286e0c63
+Description:  A proxy that upgrades HTTP connections to HTTPS for systems which cannot make HTTPS requests.
+
+Package: xupnpd2-fork
+Version: 2023-12-09-1
+Depends: libc, libssp, librt, libpthread, libsqlite3, liblua5.3, libuuid, libstdcpp, libopenssl
+Section: multimedia
+URL: https://github.com/jacklul/xupnpd2
+Architecture: mipsel-3.4
+Installed-Size: 440320
+Filename: xupnpd2-fork_2023-12-09-1_mipsel-3.4.ipk
+Size: 183324
+SHA256sum: 66f5f5ffa3e78216fdae9a190185f4cdf93dac34b4455654eb9eacb532be7810
+Description:  (github.com/jacklul/xupnpd2) This program is a light DLNA Media Server which provides ContentDirectory:1
+ service for sharing IPTV unicast streams over local area network (with udpxy
+ for multicast to HTTP unicast conversion). The program shares UTF8-encoded M3U
+ playlists with links over local area network as content of the directory.
+ You can watch HDTV broadcasts (multicast or unicast) and listen Internet
+ Radio in IP network without transcoding and PC.
+

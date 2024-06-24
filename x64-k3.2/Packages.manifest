@@ -1,0 +1,53 @@
+Package: http-to-https-proxy
+Version: v0.3-1
+Depends: libc, libssp, librt, libpthread
+Source: feeds/jacklul/http-to-https-proxy
+SourceName: http-to-https-proxy
+Section: net
+SourceDateEpoch: 1719251381
+URL: https://github.com/yeokm1/http-to-https-proxy
+Maintainer: Jack'lul, https://jacklul.github.io
+Architecture: x64-3.2
+Installed-Size: 4608000
+Filename: http-to-https-proxy_v0.3-1_x64-3.2.ipk
+Size: 1989899
+SHA256sum: 133e7809c08cc0766bc5c15cea9fa24f9ba499b38c6e7783f3b24afcb11362ec
+Description:  A proxy that upgrades HTTP connections to HTTPS for systems which cannot make HTTPS requests.
+
+Package: watchyourlan
+Version: v1.0.6-1
+Depends: libc, libssp, librt, libpthread, arp-scan
+Source: feeds/jacklul/watchyourlan
+SourceName: watchyourlan
+Section: net
+SourceDateEpoch: 1719251381
+URL: https://github.com/aceberg/WatchYourLAN
+Maintainer: Jack'lul, https://jacklul.github.io
+Architecture: x64-3.2
+Installed-Size: 12953600
+Filename: watchyourlan_v1.0.6-1_x64-3.2.ipk
+Size: 5493453
+SHA256sum: 14a05c765a75cd34c225532c1701ff9da43d55ecd04a7daef56fac9d461648fd
+Description:  Lightweight network IP scanner with web GUI
+
+Package: xupnpd2-fork
+Version: 2023-12-09-1
+Depends: libc, libssp, librt, libpthread, libsqlite3, liblua5.3, libuuid, libstdcpp, libopenssl
+Source: feeds/jacklul/xupnpd2-fork
+SourceName: xupnpd2-fork
+Section: multimedia
+SourceDateEpoch: 1719251381
+URL: https://github.com/jacklul/xupnpd2
+Maintainer: Jack'lul, https://jacklul.github.io
+Architecture: x64-3.2
+Installed-Size: 440320
+Filename: xupnpd2-fork_2023-12-09-1_x64-3.2.ipk
+Size: 183798
+SHA256sum: 96364a5c1b3b90030f31d35ff53a06f33d2399757265ea6955dbb79076cb27b0
+Description:  (github.com/jacklul/xupnpd2) This program is a light DLNA Media Server which provides ContentDirectory:1
+ service for sharing IPTV unicast streams over local area network (with udpxy
+ for multicast to HTTP unicast conversion). The program shares UTF8-encoded M3U
+ playlists with links over local area network as content of the directory.
+ You can watch HDTV broadcasts (multicast or unicast) and listen Internet
+ Radio in IP network without transcoding and PC.
+
